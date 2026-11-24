@@ -1,0 +1,4 @@
+interface:
+  display_name: "creating-editorial-covers（公众号封面）"
+  short_description: "Create a coherent series of illustrated editorial covers"
+  default_prompt: "Use $creating-editorial-covers to illustrate the main idea of my article as a WeChat cover."
